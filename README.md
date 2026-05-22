@@ -1,49 +1,71 @@
-# Olá, eu sou Kaila 👋
+<div align="center">
 
-<img width="1400" height="788" alt="Pixilart - Starting soon" src="https://github.com/user-attachments/assets/fcf7c166-cc84-4a53-84b3-4599d5de79d4" />
+# ✭ Kaila Evelin ✭
 
-🎓 Estudante do IF Baiano — Campus Santa Inês  
-💻 Interessada em programação e tecnologia  
-📚 Sempre aprendendo coisas novas  
-🚀 Em busca de evoluir e criar projetos incríveis  
+<img src="https://i.imgur.com/8Km9tLL.png" width="100%">
 
----
+</div>
 
-## 🌱 Atualmente estudando
-- Lógica de Programação
-- Git e GitHub
-- HTML e CSS
-- Desenvolvimento Web
+<div style="height: 2px; background-color: #556B2F;"></div>
 
----
+<br>
 
-## 🎯 Objetivos
-- Melhorar minhas habilidades em programação
-- Criar projetos próprios
-- Aprender JavaScript
-- Evoluir no GitHub
+<p align="center">
+Sou estudante do IF Baiano — Campus Santa Inês 🎓 <br>
+Tenho interesse em programação, tecnologia e desenvolvimento web 💻 <br>
+Atualmente estou aprendendo HTML, CSS, JavaScript e GitHub 📚 <br>
+Sempre buscando evoluir, criar projetos e aprender coisas novas ✨
+</p>
 
 ---
 
-## 💜 Hobbies
-- Música 🎵
-- Jogos 🎮
-- Tecnologia 💻
-- Desenho ✏️
+<div align="center">
+
+## ✭ Atualmente estudando ✭
+
+🌱 Lógica de Programação • HTML • CSS • JavaScript • GitHub
+
+</div>
 
 ---
 
-## 🛠 Tecnologias
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GITHUB-gray?style=for-the-badge&logo=github)
+<div align="center">
+
+## ✭ Objetivos ✭
+
+💗 Melhorar minhas habilidades em programação  
+💗 Criar projetos próprios  
+💗 Evoluir no desenvolvimento web  
+💗 Aprender cada vez mais sobre tecnologia  
+
+</div>
 
 ---
 
-## 📫 Contato
-- GitHub: @kailaevelin17-ponto
+<div align="center">
+
+## ✭ Hobbies ✭
+
+🎵 Música • 🎮 Jogos • 💻 Tecnologia • ✏️ Desenho
+
+</div>
 
 ---
 
-✨ “Cada linha de código é um passo mais perto dos meus sonhos.”
+<div align="center">
+
+## ✭ Tecnologias ✭
+
+<img src="https://img.shields.io/badge/HTML-E38C6D?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-6D8CE3?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-E3D36D?style=for-the-badge&logo=javascript&logoColor=black">
+
+</div>
+
+---
+
+<div align="center">
+
+✧ “Cada linha de código é um passo mais perto dos meus sonhos.” ✧
+
+</div>
