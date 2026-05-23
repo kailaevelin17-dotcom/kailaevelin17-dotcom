@@ -3,7 +3,9 @@
 
 # <span style="color:#f7a8c4">✭ Kaila Evelin ✭</span>
 
-<img width="100%" src="https://github.com/user-attachments/assets/fcf7c166-cc84-4a53-84b3-4599d5de79d4"/>
+<img width="1400" height="788" alt="Pixilart - Starting soon" src="https://github.com/user-attachments/assets/321f70d5-7173-4280-b34b-161cbb39096e" />
+
+
 
 <br>
 
@@ -16,7 +18,7 @@ Sempre buscando evoluir, criar projetos e aprender coisas novas ✨
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table align="center">
 <tr>
@@ -45,7 +47,7 @@ Sempre buscando evoluir, criar projetos e aprender coisas novas ✨
 </tr>
 </table>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <table align="center">
 <tr>
@@ -73,13 +75,12 @@ Sempre buscando evoluir, criar projetos e aprender coisas novas ✨
 </td>
 </tr>
 </table>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
 
 <div align="center">
 
-<img width="180px" src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/cinnamoroll-sanrio.gif">
-
+<img width="736" height="414" alt="китик" src="https://github.com/user-attachments/assets/901680a5-f361-4141-bc7c-485ef5fb5b36" />
 <br><br>
 
 ✧ <span style="color:#f7a8c4">Cada linha de código é um passo mais perto dos meus sonhos.</span> ✧
